@@ -11,6 +11,7 @@ export default function Home() {
         "justify-content": "center",
         "background-color": "#0E0E10",
         color: "#E5DED4",
+        padding: "2rem",
       }}
     >
       <Title>bogdanbpeterson | home</Title>
