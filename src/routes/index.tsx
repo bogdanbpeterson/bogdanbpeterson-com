@@ -9,6 +9,8 @@ export default function Home() {
         "flex-direction": "column",
         "align-items": "center",
         "justify-content": "center",
+        "background-color": "#0E0E10",
+        color: "#E5DED4",
       }}
     >
       <Title>bogdanbpeterson | home</Title>
